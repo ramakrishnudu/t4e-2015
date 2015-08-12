@@ -57,7 +57,8 @@
                             <p>The organizers invite papers from students, teachers and researchers in academia and industry to present the results of their research and development efforts in education through that use of technology. Papers must report original academic or industrial research in any topic relevant to the conference, i<!-- ncluding those mentioned below. Complete papers will be required for the review process.  -->Abstracts alone will not be sufficient. If accepted, it is possible that your paper may be selected for a category different from that in which it was submitted. All authors of accepted submissions will be required to complete the Conference's Copyright Form. For the paper to be included in the proceedings, one of the authors will need to register before the final version of the paper is uploaded. All papers submitted will be peer-reviewed.</p>
 
                             <h3 class="blog-title"><strike>Paper Submission deadline: 1<sup style="font-size:0.8em">st</sup> July 2015</strike></h3>
-                            <h3 class="blog-title">Paper Submission deadline (Extended): 15<sup style="font-size:0.8em">th</sup> July 2015</h3>
+                            <h3 class="blog-title"><strike>Paper Submission deadline (Extended): 15<sup style="font-size:0.8em">th</sup> July 2015</strike></h3>
+                            <h3 class="blog-title"><strike><font color=red>Paper Submission deadline (Extended): 03<sup style="font-size:0.8em">rd</sup> August 2015</font></strike></h3>
 
                             <!--Contect for Area of focus-->
 
@@ -194,4 +195,3 @@
 
     </body>
 </html>
-
