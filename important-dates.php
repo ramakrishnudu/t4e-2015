@@ -71,10 +71,9 @@
                                      <td><strike>Paper submission deadline</strike></td>
                                      <td><strike>15 July 2015</strike></td>
                                  </tr>
-                                 <tr>
-                                     <td><strike>Paper final submission deadline<strike></td>
-                                     <td><strike>22 July 2015</strike></td>
-
+                                <tr>
+                                     <td><strike><font color=red>Paper submission deadline (Extended)<font></strike></td>
+                                     <td><strike><font color=red>3rd August 2015</font></strike></td>
                                  </tr>
                                  <tr>
                                     <td>Notification of paper acceptance</td>
