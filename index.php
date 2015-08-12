@@ -46,8 +46,7 @@
                             <p class="second">Technology for Education (T4E 2015)</p>   
                             <p class="date">Dec 10-12, 2015<!-- <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for photos. --></p>
                             <p class="place">&nbsp;@ NIT Warangal, India</p>
-                            <p class="main-btn">Paper Submission Deadline (Extended): <span>&nbsp;15<sup class="sup-second">th</sup> July 2015</span></p>
-                            <!-- <p class="first" style="font-family: Arial">The 7<sup>th</sup> IEEE International Conference on </p>
+                                  <!-- <p class="first" style="font-family: Arial">The 7<sup>th</sup> IEEE International Conference on </p>
                             <p class="second">Technology for Education</h1>   
                             <p class="date">Dec 10-12, 2015</p>
                             <p class="place">NIT Warangal, India</p>
