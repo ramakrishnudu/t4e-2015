@@ -50,7 +50,7 @@
                                 <ul>
                                     <li><a href="conference-fees.php">Conference Fees</a></li>
                                     <li><a href="grants-and-fellowship.php">Grants & Fellowship</a></li>
-									<li><a href="javascript:void(0)" onclick="alertUser();">Registration</a></li>
+									<li><a href="coming.php">Registration</a></li>
 <!--                                     <li><a href="project-details.html">Project Single</a></li> -->
                                 </ul>
                             </li>
@@ -94,7 +94,7 @@
                         <ul>
                             <li><a href="conference-fees.php">Conference Fees</a></li>
                             <li><a href="grants-and-fellowship.php">Grants & Fellowship</a></li>
-							<li><a href="javascript:void(0)" onclick="alertUser();">Registration</a></li>
+							<li><a href="coming.php">Registration</a></li>
                         </ul>
                     </li>
                     <li><a href="javascript:void(0);">Program</a>
