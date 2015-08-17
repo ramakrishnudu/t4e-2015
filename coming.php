@@ -43,7 +43,7 @@ include_once("settings/db_config.php");
             <div class="inner-container container">
                 <div class="row">
                     <div class="section-header col-md-12">
-                        <h2>Coming Soon</h2>
+                        <h2>Coming Soon ...</h2>
                         <!-- <span>Subtitle Goes Here</span> -->
                     </div> <!-- /.section-header -->
                 </div> <!-- /.row -->
