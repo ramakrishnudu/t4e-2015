@@ -71,6 +71,7 @@
                                     <li><a href="about-warangal.php">About Warangal</a></li>
                                     <li><a href="accomodation.php">Accommodation</a></li>
                                     <li><a href="sponsorship-packages.php">Sponsors</a></li>
+                                    <li><a href="howtoreach.php">Travel Information</a></li>
                                 </ul>
                             </li>                                        
 
