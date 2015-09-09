@@ -56,12 +56,46 @@
                         <!-- Sub Section -->
                         <div class="box-content"> 
                             <!-- Box Content -->
-                            
-                            <p>Authors are required to follow <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE Conference Publishing Services Formatting Guidelines.</a> </p>
-                            <p>Authors should submit papers using the <a href="https://easychair.org/conferences/?conf=t4e2015">EasyChair Conference Management System.</a></p>
-                            <p>Submitted papers will be subject to a peer review process. Authors need to submit complete papers for the review process, abstract alone will not be sufficient.</p>
-                            <p>The conference employs a double-blind review process, hence authors' names and affiliations should not be present within the manuscript at the time of submission. Authors should include their names only in the appropriate fields in the paper submission form on EasyChair. Authors' information should be included ONLY in the camera-ready version of the manuscript and NOT in the initial version.</p>
-                            <p><b>Note:</b> Please clear your cache and cookies if you get "incorrect page" error while redirecting to easychair submission page.</p>
+                            <div class="panel panel-default remove-only-margin">
+                                <div class="panel-body">
+                                    <p>Please follow the instructions given below for submission of your camera-ready paper and copyright form in IEEE format and compatible with IEEE Xplore.</p><br>
+									<h2 style="font-size:20px;"><b>1. General Instructions for camera ready paper and copyright form submission</b></h2>
+                                    <br>
+                                    <p>i. Prepare your camera ready paper by following section 2 and copyright form by following section 3. Please follow the following steps to ensure your paper is included in the T4E2015 conference proceedings published by IEEE Computer Society (and included in IEEE Xplore).</p>
+									<p>ii. The final paper(both in PDF and original file in doc/odt/latex) and copyright form should be zipped and to be submitted to EasyChair by SEPTEMBER 23<sup>rd</sup>, 2015. The instructions for submitting final paper in EasyChair are given in section 4.</p>
+									<p>iii. Atleast one author has to register by October 13<sup>th</sup>, 2015, for the paper to be published in conference proceeding. For registration following the registration link in T4E website.</p>
+									 <br><h2 style="font-size:20px;"><b>2. Instructions for camera ready paper</b></h2>
+									 <br>
+									 <p>i. Please ensure the page limit of your paper complies with the category in which your paper has been accepted (which may be different from the category in which you submitted the paper).</p>
+									 <p>ii. The final camera-ready version of your paper should incorporate all reviewer comments. The reviewers' comments can be found at by logging on to your Easychair account <a href="http://www.easychair.org/" target="_blank">http://www.easychair.org/</a> homepage. </p>
+									 <p>iii. No page numbers should be used in final camera ready paper.</p>
+									 <p>iv. Final paper in PDF should comply with IEEE format for conference paper submission. Authors should obtain a clean compliance report from IEEE PDF Express by following the steps given below: </p>
+									 <p>a)Go directly to Step 5.3 (Please ignore all other steps in the Author Kit)</p>
+									 <p>b) In this step, run your paper through PDF eXpress tool to check if your camera-ready manuscript is in IEEE format and compatible with IEEE Xplore. You will be required to create an account for which the conference ID to use is 34127X.</p>
+									 <p>c) After clearing the check, the PDF file has to be uploaded in EasyChair . DO NOT UPLOAD THE PAPER IN THE IEEE SITE. </p>
+									 <br><h2 style="font-size:20px;"><b>3. Copyright Form submission</b></h2>
+									 <br>
+									 <p>a) While in the IEEE site, you must also complete the Copyright Release Form in the Step 7 of the Author Kit</p>
+									 <p>b)You will receive an email confirming the submission of Copyright Release Form. This email has to be submitted in a Word or PDF file along with your final paper in EasyChair.</p>
+                                    <br>
+									<h2 style="font-size:20px;"><b>4. Final Submission in EasyChair</b></h2>
+									<br>
+									<p>After logging in to EasyChair </p>
+									<p>1. Select: "My submission"->submission #<br>
+									2. On your right side menu, select "proceedings version"-> "upload new version"<br>
+									3. Upload your zipped file containing 3 files:<br>
+									i. Camera ready paper in PDF and in original format(DOC, ODT,Latex)<br>
+									ii. Copyright form.</p>
+                                </div>
+								<br>
+							
+
+
+
+
+
+
+
 
                             
                         </div>
@@ -91,4 +125,3 @@
 
     </body>
 </html>
-
