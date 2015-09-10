@@ -70,8 +70,8 @@
 									 <p>ii. The final camera-ready version of your paper should incorporate all reviewer comments. The reviewers' comments can be found at by logging on to your Easychair account <a href="http://www.easychair.org/" target="_blank">http://www.easychair.org/</a> homepage. </p>
 									 <p>iii. No page numbers should be used in final camera ready paper.</p>
 									 <p>iv. Final paper in PDF should comply with IEEE format for conference paper submission. Authors should obtain a clean compliance report from IEEE PDF Express by following the steps given below: </p>
-									 <p>a)Go directly to Step 5.3 (Please ignore all other steps in the Author Kit)</p>
-									 <p>b) In this step, run your paper through PDF eXpress tool to check if your camera-ready manuscript is in IEEE format and compatible with IEEE Xplore. You will be required to create an account for which the conference ID to use is 34127X.</p>
+									 <p>a)Go directly to Step 5.3 in  <a href="http://www.ieeeconfpublishing.org/cpir/authorKit.asp?Facility=CPS_Dec&ERoom=T4E+2015" target="_blank"> Author Kit </a>  (Please ignore all other steps in the Author Kit)</p>
+									 <p>b) In this step, run your paper through PDF eXpress tool to check if your camera-ready manuscript is in IEEE format and compatible with IEEE Xplore. You will be required to create an account for which the conference ID to use is 37100X.</p>
 									 <p>c) After clearing the check, the PDF file has to be uploaded in EasyChair . DO NOT UPLOAD THE PAPER IN THE IEEE SITE. </p>
 									 <br><h2 style="font-size:20px;"><b>3. Copyright Form submission</b></h2>
 									 <br>
