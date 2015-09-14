@@ -78,9 +78,9 @@
                                     copyright form
                                     submission</b></h2>
 
-                                    <ul>
-                                      <li type="lower-latin"
-                                    style="margin-left:30px"> <p>
+                                    <ol type="a">
+                                      <li type="a"
+				      style="margin-left:30px"> <p>
 					Prepare your
 					camera-ready paper
 					(Section 2 below)
@@ -88,8 +88,8 @@
 					copyright form
 					(Section 3).</p></li>
 
-                                    <li type="lower-latin"
-                                    style="margin-left:30px"><p
+                                    <li type="a"
+                                    style="margin-left:30px"><p>
                                     The final paper (both in
                                     PDF and the original
                                     <code>doc/odt/latex</code>
@@ -101,7 +101,7 @@
                                     2015</strong> (See
                                     Section 4.)</p></li>
 
-                                    <li type="lower-latin"
+                                    <li type="a"
                                     style="margin-left:30px">
                                     <p>At least one author
                                     must register
@@ -115,14 +115,14 @@
                                     the <a href="registration.html">registration
                                     page</a> (will be open
                                     soon).</p></li>
-				    </ul>
+				    </ol>
 				    
 				    <h2 style="font-size:20px;"><b>2. Instructions
 				    for camera-ready paper
 				    submission</b></h2>
 
                                      <ul>
-				       <li  type="lower-latin"
+				       <li  type="a"
 					    style="margin-left:30px"><p>
 					    Please ensure
 					    the page limit
@@ -139,7 +139,7 @@
 					    submitted the
 					    paper.</p></li>
 
-                                     <li type="lower-latin"
+                                     <li type="a"
                                      style="margin-left:30px"><p>
                                      The final camera-ready
                                      version of your paper
@@ -152,14 +152,14 @@
                                      target="_blank">http://www.easychair.org/</a>
                                      homepage.</p></li>
 
-                                     <li type="lower-latin"
+                                     <li type="a"
                                      style="margin-left:30px">
                                      <p>No page numbers should
                                      appear in your final
                                      camera-ready
                                      version.</p></li>
 
-                                     <li type="lower-latin"
+                                     <li type="a"
                                      style="margin-left:30px"><p>
                                      To ensure that the
                                      final paper complies
@@ -170,15 +170,15 @@
                                      target="_blank"> IEEE
                                      Author Kit</a>.</p>
 
-                                     <ul>
-                                     <li type="lower-roman"
+                                     <ol>
+                                     <li type="i"
                                      style="margin-left:30px"><p>Go
                                      directly to <strong>Step 5.3</strong>
                                      in  the Author
                                      Kit and follow the
                                      steps outlined there.</p></li>
 
-                                     <li type="lower-roman"
+                                     <li type="i"
                                      style="margin-left:30px"><p>
                                      Run your paper through
                                      the <a href="www.pdf-express.org"
@@ -194,7 +194,7 @@
                                      conference
                                      ID <code>37100X</code>.</p></li>
 
-                                     <li type="lower-roman"
+                                     <li type="i"
                                      style="margin-left:30px"><p>
                                      After clearing the
                                      check, please upload
@@ -204,11 +204,11 @@
                                      IEEE SITE. </p></li>
 
                                      </li>
-				     </ul>
+				     </ol>
                                      <h2 style="font-size:20px;"><b>3. Copyright
                                      form completion and acknowledgement</b></h2>
 
-                                     <ul><li type="lower-latin"
+                                     <ol><li type="a"
                                      style="margin-left:30px"><p>
                                      Please complete
                                      the Copyright Release
@@ -217,7 +217,7 @@
                                      target="_blank">Author
                                      Kit</a>.<p></li>
 
-                                     <li type="lower-latin"
+                                     <li type="a"
                                      style="margin-left:30px"><p>
                                      You will receive an
                                      email confirming the
@@ -229,7 +229,7 @@
                                      your final paper in
                                      EasyChair (Step 4
                                      below).<p></li>
-                                     </ul>
+                                     </ol>
                                     <br>
                                     <h2 style="font-size:20px;"><b>4. Final
                                     Submission in
@@ -243,15 +243,15 @@
 				    Then follow the
 				    steps below:</p>
 
-                                    <ul>
+                                    <ol>
 
-				    <li type="lower-latin"
+				    <li type="a"
                                     style="margin-left:30px">Select
                                     "My
                                     submission"->submission
                                     #.</li>
 
-                                    <li type="lower-latin"
+                                    <li type="a"
                                     style="margin-left:30px">
                                     Select "proceedings
                                     version" from the menu
@@ -259,26 +259,26 @@
                                     select "upload new
                                     version".</li>
 
-                                    <li type="lower-latin"
+                                    <li type="a"
                                     style="margin-left:30px">
                                     Upload your zipped file
                                     containing three things:
 
-                                    <ul>
-                                    <li type="lower-roman"
+                                    <ol>
+                                    <li type="i"
                                     style="margin-left:30px">
                                     Camera ready paper in
                                     PDF.</li>
- 				    <li type="lower-roman"
+ 				    <li type="i"
                                     style="margin-left:30px">
                                     Original source files of
                                     the paper (DOC, ODT, or
                                     LaTeX)</li>
 
-                                    <li type="lower-roman"
+                                    <li type="i"
                                     style="margin-left:30px">
                                     Copyright form.</li>
-                                    </ul></li></ul>
+                                    </ol></li></ol>
                                 </div>
                             <!-- <p>Authors are required to follow <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE Conference Publishing Services Formatting Guidelines.</a> </p>
                             <p>Authors should submit papers using the <a href="https://easychair.org/conferences/?conf=t4e2015">EasyChair Conference Management System.</a></p>
